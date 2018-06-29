@@ -1,0 +1,15 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.main{
+	margin: 50px 20%;
+	background-color: yellow;
+
+}
+.browser{
+	margin: 10px 20%;
+}
+.button{
+	margin: 50px 30%;
+}
